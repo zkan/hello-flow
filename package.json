@@ -6,9 +6,12 @@
   "author": "zkan <kan@prontomarketing.com>",
   "license": "MIT",
   "scripts": {
+    "dev": "babel-node src/index.js",
     "flow": "flow"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-flow": "^6.23.0",
     "flow-bin": "^0.59.0"
   }
 }
