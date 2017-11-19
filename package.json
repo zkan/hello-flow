@@ -5,6 +5,9 @@
   "repository": "git@github.com:zkan/hello-flow.git",
   "author": "zkan <kan@prontomarketing.com>",
   "license": "MIT",
+  "scripts": {
+    "flow": "flow"
+  },
   "devDependencies": {
     "flow-bin": "^0.59.0"
   }
